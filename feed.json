@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Aloysius Best",
-	"icon": "https://micro.blog/aloysiusbest/avatar.jpg",
+	"icon": "https://micro.blog/aloysius/avatar.jpg",
 	"home_page_url": "https://aloysius.best/",
 	"feed_url": "https://aloysius.best/feed.json",
 	"items": [
@@ -50,7 +50,7 @@
 				"id": "http://aloysiusbest.micro.blog/2023/11/24/my-brother-has.html",
 				
 				"content_html": "<p>My brother has been hosting Thanksgiving for almost 30 years. Anywhere from 20 to 50 people end up at his house.</p>\n<p>I&rsquo;m thankful for family</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>📷</p>\n",
-				"content_text": "My brother has been hosting Thanksgiving for almost 30 years. Anywhere from 20 to 50 people end up at his house.\n\nI'm thankful for family\n\n\n\n<img src=\"https://aloysius.best/uploads/2023/image.jpg\" width=\"449\" height=\"600\" alt=\"\"><img src=\"https://aloysius.best/uploads/2023/190a16f851.jpg\" width=\"266\" height=\"600\" alt=\"\">\n\n📷\n",
+				"content_text": "My brother has been hosting Thanksgiving for almost 30 years. Anywhere from 20 to 50 people end up at his house.\n\nI'm thankful for family\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"449\" height=\"600\" alt=\"\"><img src=\"uploads/2023/190a16f851.jpg\" width=\"266\" height=\"600\" alt=\"\">\n\n📷\n",
 				"date_published": "2023-11-24T14:51:30+00:00",
 				"url": "https://aloysius.best/2023/11/24/my-brother-has.html"
 			},
