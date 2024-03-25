@@ -9,8 +9,8 @@
 			{
 				"id": "http://aloysiusbest.micro.blog/2024/03/16/ben-white-httpsyoutubermejkuusvbsixgpnloqdjlvh.html",
 				
-				"content_html": "<p>Ben White!</p>\n<p><a href=\"https://youtu.be/rMeJKuuSVb4?si=X2_G6PnLoQD4JLvH\">youtu.be/rMeJKuuSV&hellip;</a></p>\n<p>⚽️ #ArsenalFC</p>\n",
-				"content_text": "Ben White!\n\n[youtu.be/rMeJKuuSV...](https://youtu.be/rMeJKuuSVb4?si=X2_G6PnLoQD4JLvH)\n\n⚽️ #ArsenalFC\n",
+				"content_html": "<p>Ben White!</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/rMeJKuuSVb4' frameborder='0' allowfullscreen></iframe></div>\n<p>⚽️ #ArsenalFC</p>\n",
+				"content_text": "Ben White!\n\n {{< yt rMeJKuuSVb4 >}}\n\n⚽️ #ArsenalFC\n",
 				"date_published": "2024-03-16T05:22:02-07:00",
 				"url": "https://aloysius.best/2024/03/16/ben-white-httpsyoutubermejkuusvbsixgpnloqdjlvh.html"
 			},
