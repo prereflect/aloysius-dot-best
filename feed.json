@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://aloysiusbest.micro.blog/2024/10/03/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781646221400\">The Repeat Room</a> by Jesse Ball 📚</p>\n",
+				"content_text": "Currently reading: [The Repeat Room](https://micro.blog/books/9781646221400) by Jesse Ball 📚\n",
+				"date_published": "2024-10-03T18:53:25-07:00",
+				"url": "https://aloysius.best/2024/10/03/currently-reading-the.html"
+			},
+			{
 				"id": "http://aloysiusbest.micro.blog/2024/09/17/they-better-figure.html",
 				
 				"content_html": "<p>They better figure this one out.</p>\n<p><a href=\"https://sports.yahoo.com/arsenal-open-contract-talks-26yo-093100441.html\">sports.yahoo.com/arsenal-o&hellip;</a></p>\n<p>#AFC #Arsenal ⚽</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/09/05/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 19/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 19/20.\n\n<img src=\"uploads/2024/16-17.jpg\" width=\"600\" height=\"598\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 19/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/16-17.jpg\" width=\"600\" height=\"598\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-09-05T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/09/05/the-challenge-is.html"
 			},
@@ -50,7 +58,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/09/04/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 18/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 18/20.\n\n<img src=\"uploads/2024/come-down-from-the-hills.jpg\" width=\"600\" height=\"595\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 18/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/come-down-from-the-hills.jpg\" width=\"600\" height=\"595\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-09-04T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/09/04/the-challenge-is.html"
 			},
@@ -66,7 +74,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/09/03/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 17/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 17/20.\n\n<img src=\"uploads/2024/y.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 17/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/y.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-09-03T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/09/03/the-challenge-is.html"
 			},
@@ -74,7 +82,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/09/02/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 16/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 16/20.\n\n<img src=\"uploads/2024/daybreaker.jpg\" width=\"288\" height=\"286\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 16/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/daybreaker.jpg\" width=\"288\" height=\"286\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-09-02T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/09/02/the-challenge-is.html"
 			},
@@ -82,7 +90,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/09/01/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 15/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 15/20.\n\n<img src=\"uploads/2024/09-01-karp.jpg\" width=\"597\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 15/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/09-01-karp.jpg\" width=\"597\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-09-01T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/09/01/the-challenge-is.html"
 			},
@@ -90,7 +98,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/31/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 14/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 14/20.\n\n<img src=\"uploads/2024/unkown-pleasures.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 14/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/unkown-pleasures.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-31T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/31/the-challenge-is.html"
 			},
@@ -98,7 +106,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/30/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 13/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 13/20.\n\n<img src=\"uploads/2024/pink-flag.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 13/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/pink-flag.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-30T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/30/the-challenge-is.html"
 			},
@@ -106,7 +114,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/29/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 12/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 12/20.\n\n<img src=\"uploads/2024/entertainment.jpg\" width=\"600\" height=\"593\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 12/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/entertainment.jpg\" width=\"600\" height=\"593\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-29T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/29/the-challenge-is.html"
 			},
@@ -114,7 +122,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/28/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 11/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 11/20.\n\n<img src=\"uploads/2024/the-lamb-lies-down-on-broadway.jpg\" width=\"600\" height=\"600\" alt=\"The cover of The Lamb Lies Down on Broadway from Genesis\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 11/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/the-lamb-lies-down-on-broadway.jpg\" width=\"600\" height=\"600\" alt=\"The cover of The Lamb Lies Down on Broadway from Genesis\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-28T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/28/the-challenge-is.html"
 			},
@@ -122,7 +130,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/27/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 10/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 10/20.\n\n<img src=\"uploads/2024/pay-it-all-back-vol-2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 10/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/pay-it-all-back-vol-2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-27T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/27/the-challenge-is.html"
 			},
@@ -130,7 +138,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/26/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 9/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 9/20.\n\n<img src=\"uploads/2024/wheel-in-the-roses.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 9/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/wheel-in-the-roses.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-26T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/26/the-challenge-is.html"
 			},
@@ -138,7 +146,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/25/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 8/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 8/20.\n\n<img src=\"uploads/2024/god.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 8/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/god.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-25T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/25/the-challenge-is.html"
 			},
@@ -146,7 +154,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/24/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 7/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 7/20.\n\n\n\n<img src=\"uploads/2024/a-scandal-in-bohemia.jpg\" width=\"600\" height=\"596\" alt=\"\">\n\n\n\n\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 7/20.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/a-scandal-in-bohemia.jpg\" width=\"600\" height=\"596\" alt=\"\">\n\n\n\n\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-24T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/24/the-challenge-is.html"
 			},
@@ -154,7 +162,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/23/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 6/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 6/20.\n\n<img src=\"uploads/2024/oogum-boogum.png\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 6/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/oogum-boogum.png\" width=\"600\" height=\"600\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-23T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/23/the-challenge-is.html"
 			},
@@ -162,7 +170,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/22/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 5/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 5/20.\n\n\n<img src=\"uploads/2024/out-of-vogue.jpg\" width=\"600\" height=\"598\" alt=\"\">\n\n\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 5/20.\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/out-of-vogue.jpg\" width=\"600\" height=\"598\" alt=\"\">\n\n\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-22T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/22/the-challenge-is.html"
 			},
@@ -170,7 +178,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/21/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that\ngreatly influenced you. One cover per day, for 20 days. No explanation,\nno reviews. Just covers. 4/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that \ngreatly influenced you. One cover per day, for 20 days. No explanation, \nno reviews. Just covers. 4/20.\n\n<img src=\"uploads/2024/sextet.jpeg\" width=\"288\" height=\"288\" alt=\"\">\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that \ngreatly influenced you. One cover per day, for 20 days. No explanation, \nno reviews. Just covers. 4/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/sextet.jpeg\" width=\"288\" height=\"288\" alt=\"\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-21T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/21/the-challenge-is.html"
 			},
@@ -194,7 +202,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/20/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 3/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 3/20.\n\n<img src=\"uploads/2024/tackhead-sound-system.jpg\" />\n\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 3/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/tackhead-sound-system.jpg\" />\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-20T09:51:14-07:00",
 				"url": "https://aloysius.best/2024/08/20/the-challenge-is.html"
 			},
@@ -202,7 +210,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/19/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 2/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "\n\nThe challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 2/20.\n\n<img src=\"uploads/2024/labour-of-love.jpg\" width=\"600\" height=\"600\" alt=\"The first album by MASS. A black background with four melted faces in each quadrant.  Mass written in the middle on the top.\">\n\n#20albumcovers 🎵\n",
+				"content_text": "\n\nThe challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 2/20.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/labour-of-love.jpg\" width=\"600\" height=\"600\" alt=\"The first album by MASS. A black background with four melted faces in each quadrant.  Mass written in the middle on the top.\">\n\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-19T06:00:00-07:00",
 				"url": "https://aloysius.best/2024/08/19/the-challenge-is.html"
 			},
@@ -210,7 +218,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/18/the-challenge-is.html",
 				
 				"content_html": "<p>The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 1/20.</p>\n<!-- raw HTML omitted -->\n<p>#20albumcovers 🎵</p>\n",
-				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 1/20.\r\n\r\n<img src=\"uploads/2024/kiss.jpg\" width=\"600\" height=\"600\" alt=\"Kiss 1st album. Black background the painted faces of the members of Kiss in each quadrant with their logo on top in the middle\">\r\n\r\n#20albumcovers 🎵\n",
+				"content_text": "The challenge is to choose 20 album covers that greatly influenced you. One cover per day, for 20 days. No explanation, no reviews. Just covers. 1/20.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/kiss.jpg\" width=\"600\" height=\"600\" alt=\"Kiss 1st album. Black background the painted faces of the members of Kiss in each quadrant with their logo on top in the middle\">\r\n\r\n#20albumcovers 🎵\n",
 				"date_published": "2024-08-18T18:02:16-07:00",
 				"url": "https://aloysius.best/2024/08/18/the-challenge-is.html"
 			},
@@ -226,7 +234,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/08/13/wait-im-confused.html",
 				
 				"content_html": "<p>Wait &hellip; I&rsquo;m confused</p>\n<!-- raw HTML omitted -->\n<p>Arsenal v Bayern Leverkusen  ⚽️</p>\n",
-				"content_text": "Wait ... I'm confused\r\n\r\n<img src=\"uploads/2024/arsenal-v-chelsea-or-arsenal-v-bayern.png\" width=\"559\" height=\"270\" alt=\"\">\r\n\r\nArsenal v Bayern Leverkusen  ⚽️\n",
+				"content_text": "Wait ... I'm confused\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/arsenal-v-chelsea-or-arsenal-v-bayern.png\" width=\"559\" height=\"270\" alt=\"\">\r\n\r\nArsenal v Bayern Leverkusen  ⚽️\n",
 				"date_published": "2024-08-13T20:09:42-07:00",
 				"url": "https://aloysius.best/2024/08/13/wait-im-confused.html"
 			},
@@ -234,7 +242,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/04/15/nothing-about-us.html",
 				
 				"content_html": "<p>Nothing about us, Without us, is for us.</p>\n<p>I am having a harder and harder time separating this from Anarchist thought.</p>\n<p>Kenneth Patchen. &ldquo;What shall We Do Without Us?&rdquo;</p>\n<p>#Anarchism #BeliefSystems</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nothing about us, Without us, is for us.\n\nI am having a harder and harder time separating this from Anarchist thought. \n\nKenneth Patchen. \"What shall We Do Without Us?\"\n\n#Anarchism #BeliefSystems\n\n<img src=\"uploads/2024/bec8a9a6d1.jpg\" width=\"240\" height=\"320\" alt=\"Nothing About Us, Without us, is for us\">\n",
+				"content_text": "Nothing about us, Without us, is for us.\n\nI am having a harder and harder time separating this from Anarchist thought. \n\nKenneth Patchen. \"What shall We Do Without Us?\"\n\n#Anarchism #BeliefSystems\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/bec8a9a6d1.jpg\" width=\"240\" height=\"320\" alt=\"Nothing About Us, Without us, is for us\">\n",
 				"date_published": "2024-04-15T19:55:31-07:00",
 				"url": "https://aloysius.best/2024/04/15/nothing-about-us.html"
 			},
@@ -258,7 +266,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/04/09/coyg.html",
 				
 				"content_html": "<p>#COYG</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#COYG\n\n<img src=\"uploads/2024/6e4e3b197d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "#COYG\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/6e4e3b197d.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2024-04-09T12:00:47-07:00",
 				"url": "https://aloysius.best/2024/04/09/coyg.html"
 			},
@@ -266,7 +274,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/04/07/tsamina-mina-eh.html",
 				
 				"content_html": "<p>Tsamina mina, eh, eh. Waka waka, eh, eh. 60 million down the drain. Kai Havertz scores again &hellip; ⚽️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " Tsamina mina, eh, eh. Waka waka, eh, eh. 60 million down the drain. Kai Havertz scores again ... ⚽️\r\n\r\n<img src=\"uploads/2024/kai-havertz-scores-again.png\" width=\"600\" height=\"335\" alt=\"\">\n",
+				"content_text": " Tsamina mina, eh, eh. Waka waka, eh, eh. 60 million down the drain. Kai Havertz scores again ... ⚽️\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/kai-havertz-scores-again.png\" width=\"600\" height=\"335\" alt=\"\">\n",
 				"date_published": "2024-04-07T18:40:17-07:00",
 				"url": "https://aloysius.best/2024/04/07/tsamina-mina-eh.html"
 			},
@@ -290,7 +298,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/02/10/skate-flyers-form.html",
 				"title": "Skate Flyers from Mid 2000s",
 				"content_html": "<p>I landed on <a href=\"https://github.com/hartator/wayback-machine-downloader\">Wayback Machine Downloader</a> today so I downloaded the archives of a design website I had from 2002-2011. Came across a couple of flyers that I made for a bunch of us old skaters that wanted to be their younger selves. These events were almost 20 years ago! We were old then so that must make us positively ancient now &hellip;</p>\n<p>#skate #skateboarding #skatopia #socal</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I landed on [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader) today so I downloaded the archives of a design website I had from 2002-2011. Came across a couple of flyers that I made for a bunch of us old skaters that wanted to be their younger selves. These events were almost 20 years ago! We were old then so that must make us positively ancient now ...\n\n#skate #skateboarding #skatopia #socal\n\n\n\n\n\n<img src=\"uploads/2024/hey-locals-2005.jpg\" width=\"400\" height=\"519\" alt=\"\"><img src=\"uploads/2024/skatopia-reunion-2007.jpg\" width=\"400\" height=\"518\" alt=\"\">\n",
+				"content_text": "I landed on [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader) today so I downloaded the archives of a design website I had from 2002-2011. Came across a couple of flyers that I made for a bunch of us old skaters that wanted to be their younger selves. These events were almost 20 years ago! We were old then so that must make us positively ancient now ...\n\n#skate #skateboarding #skatopia #socal\n\n\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/hey-locals-2005.jpg\" width=\"400\" height=\"519\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/130818/2024/skatopia-reunion-2007.jpg\" width=\"400\" height=\"518\" alt=\"\">\n",
 				"date_published": "2024-02-10T13:56:28-07:00",
 				"url": "https://aloysius.best/2024/02/10/skate-flyers-form.html"
 			},
@@ -314,7 +322,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/20/arsenal-win-it.html",
 				
 				"content_html": "<p>Arsenal win it 5-0 against a depleted Crystal Palace. Back on track. I&rsquo;ll take it. ⚽️ 📷</p>\n<p>#ArsenalFC</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Arsenal win it 5-0 against a depleted Crystal Palace. Back on track. I'll take it. ⚽️ 📷\n\n#ArsenalFC\n\n<img src=\"uploads/2024/arsenal-crystal-palace-5-0.jpg\" width=\"600\" height=\"375\" alt=\"\">\n",
+				"content_text": "Arsenal win it 5-0 against a depleted Crystal Palace. Back on track. I'll take it. ⚽️ 📷\n\n#ArsenalFC\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/arsenal-crystal-palace-5-0.jpg\" width=\"600\" height=\"375\" alt=\"\">\n",
 				"date_published": "2024-01-20T07:43:37-07:00",
 				"url": "https://aloysius.best/2024/01/20/arsenal-win-it.html"
 			},
@@ -322,7 +330,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/18/im-gonna-miss.html",
 				
 				"content_html": "<p>I&rsquo;m gonna miss this ol' gal 📷</p>\n<!-- raw HTML omitted -->\n<p>#Vans #ProtecPoolParty</p>\n",
-				"content_text": "I'm gonna miss this ol' gal 📷\r\n\r\n<img src=\"uploads/2024/img-20190504-154049.jpg\" width=\"600\" height=\"337\" alt=\"\">\r\n\r\n#Vans #ProtecPoolParty\n",
+				"content_text": "I'm gonna miss this ol' gal 📷\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/img-20190504-154049.jpg\" width=\"600\" height=\"337\" alt=\"\">\r\n\r\n#Vans #ProtecPoolParty\n",
 				"date_published": "2024-01-18T16:26:26-07:00",
 				"url": "https://aloysius.best/2024/01/18/im-gonna-miss.html"
 			},
@@ -330,7 +338,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/15/good-times-on.html",
 				
 				"content_html": "<p>Good times on a mission visit for a child&rsquo;s school project. 📷</p>\n<!-- raw HTML omitted -->\n<p>#CalforniaMission #AngelWithASword</p>\n",
-				"content_text": "Good times on a mission visit for a child's school project. 📷 \n\n<img src=\"uploads/2024/angel-with-a-sword.jpg\" width=\"600\" height=\"451\" alt=\"An angel with a sword is going to chop up a person cowering on the ground\">\n\n#CalforniaMission #AngelWithASword\n",
+				"content_text": "Good times on a mission visit for a child's school project. 📷 \n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/angel-with-a-sword.jpg\" width=\"600\" height=\"451\" alt=\"An angel with a sword is going to chop up a person cowering on the ground\">\n\n#CalforniaMission #AngelWithASword\n",
 				"date_published": "2024-01-15T16:46:47-07:00",
 				"url": "https://aloysius.best/2024/01/15/good-times-on.html"
 			},
@@ -338,7 +346,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/14/a-neighbors-flower.html",
 				
 				"content_html": "<p>A neighbor&rsquo;s flower came to say hey!  📷</p>\n<!-- raw HTML omitted -->\n<p>#flower</p>\n",
-				"content_text": "A neighbor's flower came to say hey!  📷\r\n\r\n<img src=\"uploads/2024/neighbor-flower.jpg\" width=\"600\" height=\"337\" alt=\"\">\r\n\r\n#flower\n",
+				"content_text": "A neighbor's flower came to say hey!  📷\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/neighbor-flower.jpg\" width=\"600\" height=\"337\" alt=\"\">\r\n\r\n#flower\n",
 				"date_published": "2024-01-14T17:22:08-07:00",
 				"url": "https://aloysius.best/2024/01/14/a-neighbors-flower.html"
 			},
@@ -346,7 +354,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/13/kinda-feeling-a.html",
 				
 				"content_html": "<p>Kinda feeling a <em>The Birds</em> vibe in my front yard. 📷</p>\n<!-- raw HTML omitted -->\n<p>#TheBirds or #TheApocalypse</p>\n",
-				"content_text": "Kinda feeling a *The Birds* vibe in my front yard. 📷\r\n\r\n<img src=\"uploads/2024/the-birds.jpg\" width=\"600\" height=\"316\" alt=\"Lots of black birds flying around and hanging out the tree in my front yard\">\r\n\r\n#TheBirds or #TheApocalypse\n",
+				"content_text": "Kinda feeling a *The Birds* vibe in my front yard. 📷\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/the-birds.jpg\" width=\"600\" height=\"316\" alt=\"Lots of black birds flying around and hanging out the tree in my front yard\">\r\n\r\n#TheBirds or #TheApocalypse\n",
 				"date_published": "2024-01-13T11:36:57-07:00",
 				"url": "https://aloysius.best/2024/01/13/kinda-feeling-a.html"
 			},
@@ -362,7 +370,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/12/i-live-near.html",
 				
 				"content_html": "<p>I live near a mission. It has a church with an altar.  📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I live near a mission. It has a church with an altar.  📷\r\n\r\n\n\n<img src=\"uploads/2024/purissima-altar.jpg\" width=\"600\" height=\"523\" alt=\"\">\n",
+				"content_text": "I live near a mission. It has a church with an altar.  📷\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/purissima-altar.jpg\" width=\"600\" height=\"523\" alt=\"\">\n",
 				"date_published": "2024-01-12T17:43:30-07:00",
 				"url": "https://aloysius.best/2024/01/12/i-live-near.html"
 			},
@@ -370,7 +378,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/11/i-used-to.html",
 				
 				"content_html": "<p>I used to spend a lot of time up above the baths when I lived out at Ocean Beach 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I used to spend a lot of time up above the baths when I lived out at Ocean Beach 📷 \r\n\r\n\n\n<img src=\"uploads/2024/sutro-baths.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I used to spend a lot of time up above the baths when I lived out at Ocean Beach 📷 \r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/sutro-baths.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-01-11T16:00:49-07:00",
 				"url": "https://aloysius.best/2024/01/11/i-used-to.html"
 			},
@@ -378,7 +386,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/10/from-a-school.html",
 				
 				"content_html": "<p>From a school open house for a person in my household a number of years ago. 📷</p>\n<p>#TheMummyIsALion</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From a school open house for a person in my household a number of years ago. 📷\r\n\r\n#TheMummyIsALion\r\n\r\n\n\n<img src=\"uploads/2024/4eda2ceeaf.jpg\" width=\"409\" height=\"600\" alt=\"\">\n",
+				"content_text": "From a school open house for a person in my household a number of years ago. 📷\r\n\r\n#TheMummyIsALion\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/4eda2ceeaf.jpg\" width=\"409\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-10T20:10:36-07:00",
 				"url": "https://aloysius.best/2024/01/10/from-a-school.html"
 			},
@@ -386,7 +394,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/09/a-number-of.html",
 				
 				"content_html": "<p>📷 A number of years ago we asked a friend who built a pool to skate in in his backyard if we could come over and skate. He said sure but we&rsquo;d have to do a little work first.</p>\n<p>#skateboarding</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " 📷 A number of years ago we asked a friend who built a pool to skate in in his backyard if we could come over and skate. He said sure but we'd have to do a little work first.\r\n\r\n#skateboarding\n\n<img src=\"uploads/2024/you-gotta-pay-to-play.jpg\" width=\"600\" height=\"554\" alt=\"\">\n",
+				"content_text": " 📷 A number of years ago we asked a friend who built a pool to skate in in his backyard if we could come over and skate. He said sure but we'd have to do a little work first.\r\n\r\n#skateboarding\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/you-gotta-pay-to-play.jpg\" width=\"600\" height=\"554\" alt=\"\">\n",
 				"date_published": "2024-01-09T16:28:49-07:00",
 				"url": "https://aloysius.best/2024/01/09/a-number-of.html"
 			},
@@ -394,7 +402,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/07/havent-been-to.html",
 				
 				"content_html": "<p>📷 Haven&rsquo;t been to Big Sur in a bit. We used to go a couple times a year. This, I&rsquo;m pretty sure is from the patio at Nepenthe</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Haven't been to Big Sur in a bit. We used to go a couple times a year. This, I'm pretty sure is from the patio at Nepenthe\n\n<img src=\"uploads/2024/big-sur.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📷 Haven't been to Big Sur in a bit. We used to go a couple times a year. This, I'm pretty sure is from the patio at Nepenthe\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/big-sur.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-01-07T14:59:23-07:00",
 				"url": "https://aloysius.best/2024/01/07/havent-been-to.html"
 			},
@@ -410,7 +418,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/06/i-was-a.html",
 				
 				"content_html": "<p>📷 I was a rather ornery youth. Punk rock was happening. Skateparks were in their infancy. Me sitting on the patio at my first skatepark. Skatopia. ~ 1978</p>\n<!-- raw HTML omitted -->\n<p>#skateboarding</p>\n",
-				"content_text": "📷 I was a rather ornery youth. Punk rock was happening. Skateparks were in their infancy. Me sitting on the patio at my first skatepark. Skatopia. ~ 1978\n\n<img src=\"uploads/2024/skatopia-patio-toby.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n#skateboarding\n",
+				"content_text": "📷 I was a rather ornery youth. Punk rock was happening. Skateparks were in their infancy. Me sitting on the patio at my first skatepark. Skatopia. ~ 1978\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/skatopia-patio-toby.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n#skateboarding\n",
 				"date_published": "2024-01-06T10:03:13-07:00",
 				"url": "https://aloysius.best/2024/01/06/i-was-a.html"
 			},
@@ -418,7 +426,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/05/rorschach-test-in.html",
 				
 				"content_html": "<p>Rorschach test in a public bathroom at the local mall. 📷</p>\n<p>I&rsquo;m thinking bird in flight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rorschach test in a public bathroom at the local mall. 📷\r\n\r\nI'm thinking bird in flight.\r\n\r\n\n\n<img src=\"uploads/2024/bird-in-flight-santa-maria.jpg\" width=\"600\" height=\"472\" alt=\"\">\n",
+				"content_text": "Rorschach test in a public bathroom at the local mall. 📷\r\n\r\nI'm thinking bird in flight.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/bird-in-flight-santa-maria.jpg\" width=\"600\" height=\"472\" alt=\"\">\n",
 				"date_published": "2024-01-05T08:10:28-07:00",
 				"url": "https://aloysius.best/2024/01/05/rorschach-test-in.html"
 			},
@@ -426,7 +434,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/04/a-while-ago.html",
 				
 				"content_html": "<p>A while ago we used to take the boys to the <em>Dinosaur Museum</em>. These ladies were there too. 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A while ago we used to take the boys to the *Dinosaur Museum*. These ladies were there too. 📷\r\n\r\n\n\n<img src=\"uploads/2024/ladies-natural-history-museum.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"content_text": "A while ago we used to take the boys to the *Dinosaur Museum*. These ladies were there too. 📷\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/ladies-natural-history-museum.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
 				"date_published": "2024-01-04T15:52:11-07:00",
 				"url": "https://aloysius.best/2024/01/04/a-while-ago.html"
 			},
@@ -434,7 +442,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/03/in-music-as.html",
 				
 				"content_html": "<p>In music 🎵 as well as books 📚I tend to follow a lot of paths. 📷</p>\n<p>Bukowski -&gt; Black Sparrow Press -&gt; Paul Bowles -&gt; Mohammed Mrabet.</p>\n<p>Ultravox cover of &ldquo;King&rsquo;s Lead Hat&rdquo; at the Whiskey in 1979 -&gt; Brian Eno -&gt; Eno/Byrne -&gt; Amos Tutola.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In music 🎵 as well as books 📚I tend to follow a lot of paths. 📷\n\nBukowski -> Black Sparrow Press -> Paul Bowles -> Mohammed Mrabet.\n\nUltravox cover of \"King's Lead Hat\" at the Whiskey in 1979 -> Brian Eno -> Eno/Byrne -> Amos Tutola.\n\n\n\n<img src=\"uploads/2024/mrabet.jpg\" width=\"600\" height=\"362\" alt=\"\">\n",
+				"content_text": "In music 🎵 as well as books 📚I tend to follow a lot of paths. 📷\n\nBukowski -> Black Sparrow Press -> Paul Bowles -> Mohammed Mrabet.\n\nUltravox cover of \"King's Lead Hat\" at the Whiskey in 1979 -> Brian Eno -> Eno/Byrne -> Amos Tutola.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/mrabet.jpg\" width=\"600\" height=\"362\" alt=\"\">\n",
 				"date_published": "2024-01-03T16:34:04-07:00",
 				"url": "https://aloysius.best/2024/01/03/in-music-as.html"
 			},
@@ -450,7 +458,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/03/there-is-a.html",
 				
 				"content_html": "<p>There is a small beach north of us where we, one day, found hundreds of apples all over the sand. There are some orchards nearby where we get fancy apples by the pound. I don&rsquo;t remember a large storm near then but how else would they get from the orchards to the ocean to the beach? 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There is a small beach north of us where we, one day, found hundreds of apples all over the sand. There are some orchards nearby where we get fancy apples by the pound. I don't remember a large storm near then but how else would they get from the orchards to the ocean to the beach? 📷\n\n\n\n<img src=\"uploads/2024/avila-apples.jpg\" width=\"553\" height=\"400\" alt=\"\">\n",
+				"content_text": "There is a small beach north of us where we, one day, found hundreds of apples all over the sand. There are some orchards nearby where we get fancy apples by the pound. I don't remember a large storm near then but how else would they get from the orchards to the ocean to the beach? 📷\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/avila-apples.jpg\" width=\"553\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-01-02T17:03:00-07:00",
 				"url": "https://aloysius.best/2024/01/03/there-is-a.html"
 			},
@@ -458,7 +466,7 @@
 				"id": "http://aloysiusbest.micro.blog/2024/01/01/going-to-try.html",
 				
 				"content_html": "<p>📷 Going to try to get 30 posts/pics in a row.</p>\n<p>The only true messenger bag</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Going to try to get 30 posts/pics in a row.\r\n\r\nThe only true messenger bag\r\n\r\n\n\n<img src=\"uploads/2024/zo-bag.jpg\" width=\"405\" height=\"433\" alt=\"\">\n",
+				"content_text": "📷 Going to try to get 30 posts/pics in a row.\r\n\r\nThe only true messenger bag\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/zo-bag.jpg\" width=\"405\" height=\"433\" alt=\"\">\n",
 				"date_published": "2024-01-01T05:40:35-07:00",
 				"url": "https://aloysius.best/2024/01/01/going-to-try.html"
 			},
@@ -522,7 +530,7 @@
 				"id": "http://aloysiusbest.micro.blog/2023/11/25/the-view-from.html",
 				
 				"content_html": "<p>The view from here post Thanksgiving</p>\n<!-- raw HTML omitted -->\n<p>Secret skate spot</p>\n<!-- raw HTML omitted -->\n<p>on the trail</p>\n<!-- raw HTML omitted -->\n<p>to the <a href=\"https://www.alltrails.com/trail/us/california/heart-rock-trail\">Heart Rock</a></p>\n<!-- raw HTML omitted -->\n<p>📷</p>\n",
-				"content_text": "The view from here post Thanksgiving \n\n<img src=\"uploads/2023/cabin-view.jpg\" width=\"600\" height=\"600\" alt=\"The view from the cabin in Lake Arrowhead\">\n\nSecret skate spot\n\n<img src=\"uploads/2023/skate-spot.jpg\" width=\"600\" height=\"600\" alt=\"Drained swimming pool near the Heart Rock Trail\">\n\non the trail\n\n<img src=\"uploads/2023/heart-rock-trail.jpg\" width=\"600\" height=\"600\" alt=\"river running next to the trail\">\n\nto the [Heart Rock](https://www.alltrails.com/trail/us/california/heart-rock-trail)\n\n<img src=\"uploads/2023/heart-rock.jpg\" width=\"600\" height=\"600\" alt=\"The Heart Rock from above\">\n\n📷\n",
+				"content_text": "The view from here post Thanksgiving \n\n<img src=\"https://cdn.uploads.micro.blog/130818/2023/cabin-view.jpg\" width=\"600\" height=\"600\" alt=\"The view from the cabin in Lake Arrowhead\">\n\nSecret skate spot\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2023/skate-spot.jpg\" width=\"600\" height=\"600\" alt=\"Drained swimming pool near the Heart Rock Trail\">\n\non the trail\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2023/heart-rock-trail.jpg\" width=\"600\" height=\"600\" alt=\"river running next to the trail\">\n\nto the [Heart Rock](https://www.alltrails.com/trail/us/california/heart-rock-trail)\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2023/heart-rock.jpg\" width=\"600\" height=\"600\" alt=\"The Heart Rock from above\">\n\n📷\n",
 				"date_published": "2023-11-25T15:45:12-07:00",
 				"url": "https://aloysius.best/2023/11/25/the-view-from.html"
 			},
@@ -538,7 +546,7 @@
 				"id": "http://aloysiusbest.micro.blog/2023/11/24/my-brother-has.html",
 				
 				"content_html": "<p>My brother has been hosting Thanksgiving for almost 30 years. Anywhere from 20 to 50 people end up at his house.</p>\n<p>I&rsquo;m thankful for family</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>📷</p>\n",
-				"content_text": "My brother has been hosting Thanksgiving for almost 30 years. Anywhere from 20 to 50 people end up at his house.\n\nI'm thankful for family\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"449\" height=\"600\" alt=\"\"><img src=\"uploads/2023/190a16f851.jpg\" width=\"266\" height=\"600\" alt=\"\">\n\n📷\n",
+				"content_text": "My brother has been hosting Thanksgiving for almost 30 years. Anywhere from 20 to 50 people end up at his house.\n\nI'm thankful for family\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2023/image.jpg\" width=\"449\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/130818/2023/190a16f851.jpg\" width=\"266\" height=\"600\" alt=\"\">\n\n📷\n",
 				"date_published": "2023-11-24T07:51:30-07:00",
 				"url": "https://aloysius.best/2023/11/24/my-brother-has.html"
 			},
@@ -594,7 +602,7 @@
 				"id": "http://aloysiusbest.micro.blog/2022/01/17/the-only-true.html",
 				
 				"content_html": "<p>The only true <em>Beat</em>. From and for the people. I have so much respect for Bob Kaufman.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The only true *Beat*. From and for the people. I have so much respect for Bob Kaufman.\n\n<img src=\"uploads/2024/and-when-i-die.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
+				"content_text": "The only true *Beat*. From and for the people. I have so much respect for Bob Kaufman.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/and-when-i-die.jpg\" width=\"600\" height=\"338\" alt=\"\">\n",
 				"date_published": "2022-01-17T10:58:00-07:00",
 				"url": "https://aloysius.best/2022/01/17/the-only-true.html"
 			},
@@ -602,7 +610,7 @@
 				"id": "http://aloysiusbest.micro.blog/2021/01/18/this-is-a.html",
 				
 				"content_html": "<p>This is a wonderful book. While lucid dreaming is a very interesting topic, I keep returning to the book’s intentions. Truly beautiful.</p>\n<!-- raw HTML omitted -->\n<blockquote>\n<p><em>Sleep, Death’s Brother</em> is an instruction manual on dreaming that is intended for children or incarcerated persons. It enables such individuals to learn to lucid dream and to use their dreams to somewhat escape their situations.</p>\n<p>— From <a href=\"https://pioneerworks.org/publishing/jesse-ball-sleep-deaths-brother/\">Pioneer Works</a></p>\n</blockquote>\n",
-				"content_text": "This is a wonderful book. While lucid dreaming is a very interesting topic, I keep returning to the book’s intentions. Truly beautiful.\n\n<img src=\"uploads/2024/sleep-deaths-brother.jpg\" width=\"400\" height=\"627\" alt=\"\">\n\n> *Sleep, Death’s Brother* is an instruction manual on dreaming that is intended for children or incarcerated persons. It enables such individuals to learn to lucid dream and to use their dreams to somewhat escape their situations.\n>\n> — From [Pioneer Works](https://pioneerworks.org/publishing/jesse-ball-sleep-deaths-brother/)\n",
+				"content_text": "This is a wonderful book. While lucid dreaming is a very interesting topic, I keep returning to the book’s intentions. Truly beautiful.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/sleep-deaths-brother.jpg\" width=\"400\" height=\"627\" alt=\"\">\n\n> *Sleep, Death’s Brother* is an instruction manual on dreaming that is intended for children or incarcerated persons. It enables such individuals to learn to lucid dream and to use their dreams to somewhat escape their situations.\n>\n> — From [Pioneer Works](https://pioneerworks.org/publishing/jesse-ball-sleep-deaths-brother/)\n",
 				"date_published": "2021-01-18T11:14:00-07:00",
 				"url": "https://aloysius.best/2021/01/18/this-is-a.html"
 			},
@@ -610,7 +618,7 @@
 				"id": "http://aloysiusbest.micro.blog/2021/01/18/playlist-on-my.html",
 				
 				"content_html": "<p>Playlist on my phone of Vols. 1 through 5 of <em>Frequencies for Leaving Earth</em> from <a href=\"https://kevinrichardmartin.bandcamp.com/\">Kevin Richard Martin</a> and then I just hit shuffle. Very good for thought in the drudgery of the job situation. Thinking about <em>Semidetache-d</em>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Playlist on my phone of Vols. 1 through 5 of *Frequencies for Leaving Earth* from [Kevin Richard Martin](https://kevinrichardmartin.bandcamp.com/) and then I just hit shuffle. Very good for thought in the drudgery of the job situation. Thinking about *Semidetache-d*.\n\n<img src=\"uploads/2024/f-f-l-earth.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Playlist on my phone of Vols. 1 through 5 of *Frequencies for Leaving Earth* from [Kevin Richard Martin](https://kevinrichardmartin.bandcamp.com/) and then I just hit shuffle. Very good for thought in the drudgery of the job situation. Thinking about *Semidetache-d*.\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/f-f-l-earth.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2021-01-18T11:04:00-07:00",
 				"url": "https://aloysius.best/2021/01/18/playlist-on-my.html"
 			},
@@ -626,7 +634,7 @@
 				"id": "http://aloysiusbest.micro.blog/2019/05/03/reading-albions-journal.html",
 				"title": "Reading Albion's Journal",
 				"content_html": "<p><a href=\"https://readingalbionsjournal.com\">Reading Albion&rsquo;s Journal</a></p>\n<!-- raw HTML omitted -->\n<p>I read <a href=\"https://www.ndbooks.com/book/the-journal-of-albion-moonlight/\">The Journal of Albion Moonlight</a> by <a href=\"https://en.wikipedia.org/wiki/Kenneth_Patchen\">Kenneth Patchen</a>  a long time ago. I’ve had an idea to write a daily reflection on each  of these journal entries on the day of the year that they occurred. This  summer is the time.</p>\n<p>The journal is written from May 2nd to August 27th. I’m feeling a kinship with Albion Moonlight with this plague summer that we are starting in 2019. While the past 2+ years here in the United States of America cannot compare to World War 2…We are rapidly spiraling out of control with the dismantling of our democracy by the Trump administration and Republican complicity in these actions.</p>\n",
-				"content_text": "[Reading Albion's Journal](https://readingalbionsjournal.com)\n\n<img src=\"uploads/2024/tjoab.jpg\" width=\"324\" height=\"405\" alt=\"\">\n\nI read [The Journal of Albion Moonlight](https://www.ndbooks.com/book/the-journal-of-albion-moonlight/) by [Kenneth Patchen](https://en.wikipedia.org/wiki/Kenneth_Patchen)  a long time ago. I’ve had an idea to write a daily reflection on each  of these journal entries on the day of the year that they occurred. This  summer is the time.\n\nThe journal is written from May 2nd to August 27th. I’m feeling a kinship with Albion Moonlight with this plague summer that we are starting in 2019. While the past 2+ years here in the United States of America cannot compare to World War 2…We are rapidly spiraling out of control with the dismantling of our democracy by the Trump administration and Republican complicity in these actions.\n",
+				"content_text": "[Reading Albion's Journal](https://readingalbionsjournal.com)\n\n<img src=\"https://cdn.uploads.micro.blog/130818/2024/tjoab.jpg\" width=\"324\" height=\"405\" alt=\"\">\n\nI read [The Journal of Albion Moonlight](https://www.ndbooks.com/book/the-journal-of-albion-moonlight/) by [Kenneth Patchen](https://en.wikipedia.org/wiki/Kenneth_Patchen)  a long time ago. I’ve had an idea to write a daily reflection on each  of these journal entries on the day of the year that they occurred. This  summer is the time.\n\nThe journal is written from May 2nd to August 27th. I’m feeling a kinship with Albion Moonlight with this plague summer that we are starting in 2019. While the past 2+ years here in the United States of America cannot compare to World War 2…We are rapidly spiraling out of control with the dismantling of our democracy by the Trump administration and Republican complicity in these actions.\n",
 				"date_published": "2019-05-03T10:09:00-07:00",
 				"url": "https://aloysius.best/2019/05/03/reading-albions-journal.html"
 			},
